@@ -1,0 +1,83 @@
+object Form1: TForm1
+  Left = 933
+  Height = 349
+  Top = 274
+  Width = 332
+  Caption = 'Form1'
+  ClientHeight = 349
+  ClientWidth = 332
+  Color = clMenu
+  DesignTimePPI = 120
+  LCLVersion = '2.2.0.4'
+  object Button1: TButton
+    Cursor = crHandPoint
+    Left = 72
+    Height = 78
+    Top = 72
+    Width = 193
+    Caption = 'Fábrica'
+    Color = clSilver
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clNone
+    Font.Height = -18
+    Font.Name = 'Arial'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    OnClick = Button1Click
+    ParentFont = False
+    TabOrder = 0
+  end
+  object Label1: TLabel
+    Left = 80
+    Height = 28
+    Top = 24
+    Width = 165
+    Caption = 'Bem Vindo ao ERP'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -20
+    Font.Name = 'Segoe UI Semibold'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold, fsItalic]
+    ParentFont = False
+  end
+  object Button2: TButton
+    Cursor = crHandPoint
+    Left = 72
+    Height = 78
+    Top = 160
+    Width = 193
+    Caption = 'Base de Dados'
+    Color = clSilver
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clNone
+    Font.Height = -18
+    Font.Name = 'Arial'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    OnClick = Button2Click
+    ParentFont = False
+    TabOrder = 1
+  end
+  object Button3: TButton
+    Cursor = crHandPoint
+    Left = 72
+    Height = 78
+    Top = 248
+    Width = 193
+    Caption = 'Desligar'
+    Color = clSilver
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clNone
+    Font.Height = -18
+    Font.Name = 'Arial'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    OnClick = Button3Click
+    ParentFont = False
+    TabOrder = 2
+  end
+end
