@@ -2,7 +2,7 @@
 
 ERP-MES is an integrated system designed to streamline enterprise resource planning (ERP) and manufacturing execution system (MES) processes. Developed in Pascal, this project addresses modern manufacturing needs by integrating production planning, inventory management, quality control, and real-time monitoring.
 
-> This work received a score of 20/20 in the Industrial Informatics course as part of the Bachelor of Industrial Engineering and Management program.
+> This work received a score of 20/20 in the Industrial Informatics course during the last semester of the Bachelor of Industrial Engineering and Management program.
 
 ## Table of Contents
 - [Overview](#overview)
